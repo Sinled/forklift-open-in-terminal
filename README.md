@@ -10,3 +10,5 @@ Replace file in
 
 to fix this problem add ```OpenInTerminal.sh```
 as tool and sent ```{Source selection paths}``` to the script
+
+to assign hot key you can use apple global menu hotkeys
